@@ -1,2 +1,12 @@
 # Lovelace
-teste
+
+
+Loja de vendas de maquiagem.
+
+Responsáveis:
+
+Attany
+Elaine
+Tainara
+Vanessa
+
